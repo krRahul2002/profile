@@ -45,8 +45,8 @@ I love working on innovative projects that challenge my skills and allow me to m
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krRahul2002&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krRahul2002&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -60,3 +60,8 @@ I love working on innovative projects that challenge my skills and allow me to m
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40"/>
   </a>
 </p>
+
+---
+
+Feel free to explore my GitHub repositories and connect with me!  
+**[GitHub Profile](https://github.com/krRahul2002)**
