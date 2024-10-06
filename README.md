@@ -1,51 +1,62 @@
 # Hey there, I'm Kumar Rahul! 👋
 
-## About Me
+![Header](https://user-images.githubusercontent.com/your-image-link-here)
 
-I'm a **4th-year student** pursuing a Bachelor's degree in **Mathematics and Computing** at **Rajiv Gandhi Institute of Petroleum Technology**. Passionate about building elegant and efficient web applications, I specialize in **Frontend Development**, but I also have experience with backend technologies, which helps me work across the full stack!
+## 👨‍💻 About Me
 
-I love exploring new technologies, solving real-world problems, and collaborating on projects that make an impact.
+I'm **Kumar Rahul**, a **4th-year student** at **Rajiv Gandhi Institute of Petroleum Technology**, pursuing a Bachelor's in **Mathematics and Computing**. I’m passionate about creating elegant, scalable web applications. While my focus is mainly on **frontend development**, I’m also proficient in backend technologies.
+
+I love working on innovative projects that challenge my skills and allow me to make an impact with technology. 
 
 ---
 
-## 🌟 Tech Stack
+## 🚀 Skills & Technologies
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>
 </p>
 
 ### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40"/>
 </p>
 
 ### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40"/>
 </p>
 
 ---
 
-## 🚀 What I'm Working On:
-- 💻 Building modern and responsive web applications
-- 📱 Exploring full-stack development projects
-- 🎨 Designing clean and functional user interfaces
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
-## 📫 Connect With Me:
-- LinkedIn: [Your LinkedIn URL](#)
-- Email: [Your Email Address](#)
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40"/>
+  </a>
+</p>
